@@ -14,6 +14,8 @@ def create_connection():
     try:
         # Connection parameters
         credentials = pika.PlainCredentials('admin', 'admin123')
+        // Use default RabbitMQ port and virtual host
+
         parameters = pika.ConnectionParameters(
             host='localhost',
             port=5672,
