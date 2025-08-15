@@ -69,3 +69,7 @@ docker-compose logs -f [service_name]
 - If ports are already in use, modify the port mappings in the compose files
 - Use `docker-compose ps` to check service status
 - Use `docker-compose logs` to view service logs
+
+## Understanding 
+
+https://aws.amazon.com/compare/the-difference-between-rabbitmq-and-kafka/
