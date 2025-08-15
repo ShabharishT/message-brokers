@@ -72,4 +72,8 @@ docker-compose logs -f [service_name]
 
 ## Understanding 
 
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
 https://aws.amazon.com/compare/the-difference-between-rabbitmq-and-kafka/
